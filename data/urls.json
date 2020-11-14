@@ -1,0 +1,18 @@
+{
+  "urls": [
+    {
+      "url": "https://staging-btw-ui-18.herokuapp.com",
+      "url_api": "http://dummy.restapiexample.com",
+      "tags": [
+        "dev4"
+      ]
+    },
+    {
+      "url": "https://staging-btw-ui-18.herokuapp.com",
+      "url_api": "http://dummy.restapiexample.com",
+      "tags": [
+        "UAT"
+      ]
+    }
+  ]
+}
